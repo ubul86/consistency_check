@@ -1,0 +1,13 @@
+<?php
+
+const TYPE_SERVERS_ARR = 1;
+const TYPE_SERVERS_STRING = 2;
+
+const TYPE_COUNT = 1;
+const TYPE_SHOW = 2;
+const TYPE_CHECKSUM = 3;
+const TYPE_AUTOINCREMENT = 4;
+const TYPE_SLAVES_ERR = 5;
+const TYPE_SHOW_TABLES = 6;
+const TYPE_SLAVES_ERR_IO = 7;
+const TYPE_DATA_LENGTH = 8;

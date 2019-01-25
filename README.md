@@ -1,4 +1,4 @@
-# Replikáció konzisztencia revizor
+# Adatbázisok közötti konzisztencia ellenörző
 
 ## Konfiguráció
 
